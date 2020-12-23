@@ -7,6 +7,7 @@
 html {
   font-family: 'Roboto', sans-serif;
 }
+
 .container {
     position: relative;
     width: 1140px;
@@ -51,7 +52,6 @@ h2.title {
     line-height: 24px;
     text-transform: uppercase;
     text-align: center;
-
 }
 
 .simple .title_big {
@@ -61,7 +61,6 @@ h2.title {
     text-transform: uppercase;
     text-align: center;
     margin-top: 21px;
-
 }
 
 .promo .promo_text {
@@ -266,7 +265,6 @@ h2.title {
   font-size: 30px;
   text-align: center;
   color: #252525;
-
 }
 
 .webinar {
@@ -315,7 +313,6 @@ footer {
     min-height: 166px;
     background-color: #1a1a1a;
     padding: 61px 0 69px 0;
-
 }
 
 .info {
