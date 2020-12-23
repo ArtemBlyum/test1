@@ -1,10 +1,12 @@
 * {
-    font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
+html {
+  font-family: 'Roboto', sans-serif;
+}
 .container {
     position: relative;
     width: 1140px;
@@ -49,7 +51,7 @@ h2.title {
     line-height: 24px;
     text-transform: uppercase;
     text-align: center;
-     
+
 }
 
 .simple .title_big {
@@ -59,7 +61,7 @@ h2.title {
     text-transform: uppercase;
     text-align: center;
     margin-top: 21px;
-     
+
 }
 
 .promo .promo_text {
@@ -254,7 +256,7 @@ h2.title {
 .present .present_img{
     display: block;
     margin: 0 auto;
-    
+
 }
 
 .present .present_text {
@@ -276,7 +278,7 @@ h2.title {
 .webinar .webinar_img .webinar_conf {
     display: block;
     margin: 0 auto;
-    padding-top: 89px; 
+    padding-top: 89px;
 }
 
 .webinar .webinar_head {
@@ -313,7 +315,7 @@ footer {
     min-height: 166px;
     background-color: #1a1a1a;
     padding: 61px 0 69px 0;
-    
+
 }
 
 .info {
